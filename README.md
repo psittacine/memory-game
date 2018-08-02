@@ -17,3 +17,20 @@ Each turn:
 * If the cards do not match, both cards are flipped face down.
 
 The game ends once all cards have been correctly matched.
+
+
+### References:
+
+* Webinar: [FEND P3: Memory Game with Mike Wales](https://www.youtube.com/watch?v=_rUH-sEs68Y)
+* Webinar: [Memory Game Webinar with Ryan Waite](https://www.youtube.com/watch?v=oECVwum-7Zc)
+* Memory Game Walkthrough by Matthew Cranford:
+    * [Part 1 – Setup](https://matthewcranford.com/memory-game-walkthrough-part-1-setup/)
+    * [Part 2 – Toggling Cards](https://matthewcranford.com/memory-game-walkthrough-part-2-toggling-cards/)
+    * [Part 3 – Matching Pairs](https://matthewcranford.com/memory-game-walkthrough-part-3-matching-pairs/)
+    * [Part 4 – Shuffling Decks](https://matthewcranford.com/memory-game-walkthrough-part-4-shuffling-decks/)
+    * [Part 5 – Moves & Stars](https://matthewcranford.com/memory-game-walkthrough-part-5-moves-stars/)
+    * [Part 6 – The Clock](https://matthewcranford.com/memory-game-walkthrough-part-6-the-clock/)
+    * [Part 7 – Making a Modal](https://matthewcranford.com/memory-game-walkthrough-part-7-making-a-modal/)
+    * [Part 8 – Putting It All Together](https://matthewcranford.com/memory-game-walkthrough-part-8-putting-it-all-together/)
+* Stack Overflow: [Create a `<ul>` and fill it based on a passed array](https://stackoverflow.com/questions/11128700/create-a-ul-and-fill-it-based-on-a-passed-array/11128791#)
+* W3Schools:  [How To Create a Modal Box](https://www.w3schools.com/howto/howto_css_modals.asp)
