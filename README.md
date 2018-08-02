@@ -33,4 +33,4 @@ The game ends once all cards have been correctly matched.
     * [Part 7 – Making a Modal](https://matthewcranford.com/memory-game-walkthrough-part-7-making-a-modal/)
     * [Part 8 – Putting It All Together](https://matthewcranford.com/memory-game-walkthrough-part-8-putting-it-all-together/)
 * Stack Overflow: [Create a `<ul>` and fill it based on a passed array](https://stackoverflow.com/questions/11128700/create-a-ul-and-fill-it-based-on-a-passed-array/11128791#)
-* W3Schools:  [How To Create a Modal Box](https://www.w3schools.com/howto/howto_css_modals.asp)
+* W3Schools:  [CSS/JS Modal – How To Create a Modal Box](https://www.w3schools.com/howto/howto_css_modals.asp)
